@@ -43,9 +43,9 @@ This project involves analyzing data from the stock market for technology stocks
      sns.pairplot(rets_df.dropna())
      sns.heatmap(rets_df.dropna(), annot=True)
      ```
-![GGStocks](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/e61bba67-b31e-402d-bf71-c88549943d65)
+     ![GGStocks](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/e61bba67-b31e-402d-bf71-c88549943d65)
 
-![GAStocks](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/42a098ba-a978-41b0-b1c3-d2d143bccd14)
+     ![GAStocks](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/42a098ba-a978-41b0-b1c3-d2d143bccd14)
 
 ![Google and Microsoft](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/a031c1d1-9d39-4a57-afbb-ce88367fe8d7)
 3. **Risk Assessment**
@@ -72,12 +72,12 @@ This project involves analyzing data from the stock market for technology stocks
          plt.plot(stock_monte_carlo(start_price, days, mu, sigma))
      ```
      
-![Monte Carlo Analysis GOOGLE](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/34e10f33-2930-475b-972f-f08a8d118609)
+     ![Monte Carlo Analysis GOOGLE](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/34e10f33-2930-475b-972f-f08a8d118609)
 
 5. **Conclusion**
    - Summarized findings and insights from the analysis, such as stock stability, risk assessment results, and predictive trends.
 
-   ![Final Price Distribution](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/a2260926-c168-4666-bb31-d50903505f99)
+     ![Final Price Distribution](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/a2260926-c168-4666-bb31-d50903505f99)
 
 ## Libraries Used
 - `yfinance`: Fetching stock data.
