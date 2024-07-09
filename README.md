@@ -47,7 +47,7 @@ This project involves analyzing data from the stock market for technology stocks
 
      ![GAStocks](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/42a098ba-a978-41b0-b1c3-d2d143bccd14)
 
-![Google and Microsoft](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/a031c1d1-9d39-4a57-afbb-ce88367fe8d7)
+     ![Google and Microsoft](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/a031c1d1-9d39-4a57-afbb-ce88367fe8d7)
 3. **Risk Assessment**
    - **Value at Risk (VaR)**
      - Used the Bootstrap and Monte Carlo methods to calculate VaR.
