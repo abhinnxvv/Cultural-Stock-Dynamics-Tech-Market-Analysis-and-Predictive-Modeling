@@ -14,7 +14,7 @@ This project involves analyzing data from the stock market for technology stocks
      ```python
      AAPL['Close'].plot(title='Apple Stock Price')
      ```
-     ![Apple Stock Price](TechStock-Analysis/ASP.png)
+     ![Apple Stock Price](https://github.com/abhinnxvv/TechStock-Analysis/assets/92618378/c726054c-df25-4baa-ad40-b46f3a7515ca)
    - **Moving Averages**
      - Calculated and plotted moving averages (10, 20, and 50 days) for Apple's stock.
      ```python
