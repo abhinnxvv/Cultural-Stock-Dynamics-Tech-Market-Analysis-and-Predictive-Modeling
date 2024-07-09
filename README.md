@@ -66,6 +66,3 @@ This project involves analyzing data from the stock market for technology stocks
 
 ## Dataset
 - Historical stock data for Apple, Google, Microsoft, and Amazon from January 2020 to July 2024.
-
-
-Feel free to customize this template based on specific insights, additional visualizations, or findings from your analysis. This structure provides a clear and detailed overview of your project for potential readers or collaborators.
