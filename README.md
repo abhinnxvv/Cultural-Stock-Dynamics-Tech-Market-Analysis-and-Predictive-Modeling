@@ -1,4 +1,4 @@
-# TechStock Analysis
+# Cultural Stock Dynamics: Tech Market Analysis and Predictive Modeling
 
 ## Overview
 This project involves analyzing data from the stock market for technology stocks (Apple, Google, Microsoft, Amazon). We use Python and various libraries for data extraction, analysis, visualization, and predictive modeling.
